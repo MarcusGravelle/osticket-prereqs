@@ -92,7 +92,7 @@ Install MySQL 5.5.62 with standard configuration. Set a username & password then
 
 <p>
   <img src="https://i.imgur.com/o2vOtoK.png" height="80%" width="80%" alt="IIS Search (Run as Administrator"/>
-  Run as Administrator
+ <strong>Run as Administrator</strong> 
   <img src="https://i.imgur.com/KaHm2sZ.png" height="80%" width="80%" alt="IIS Menu (PHP Manager)"/>
   <img src="https://i.imgur.com/8OdZRak.png" height="80%" width="80%" alt="PHP Manager before Register"/>
   <img src="https://i.imgur.com/Ydm4xgV.png" height="80%" width="80%" alt="PHP Manager at Register"/>
