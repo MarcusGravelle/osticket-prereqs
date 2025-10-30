@@ -116,7 +116,18 @@ To make the Web Server aware of PHP on the computer. Register PHP from within II
 <br />
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Web Files"/>
+  <img src="https://i.imgur.com/olif1kl.png" height="80%" width="80%" alt="Extract osTicket Files"/>
+
+Extract osTicket Files
+  
+  <img src="https://i.imgur.com/dpaaura.png" height="80%" width="80%" alt="Copy Upload to C Drive inetpub\wwwroot"/>
+
+Copy Upload File to C:\inetpub\wwwroot
+  
+  <img src="https://i.imgur.com/9EqpCB9.png" height="80%" width="80%" alt="Change name of Folder to osTicket"/>
+
+Change name of folder to osTicket
+  
 </p>
 <p>
 <strong>Step 7 – Deploy osTicket Files:</strong><br/>
