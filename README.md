@@ -58,7 +58,13 @@ Install PHP Manager for IIS and the URL Rewrite Module from the provided install
 </p>
 <p>
   <img src="https://i.imgur.com/rXy749I.png" height="80%" width="80%" alt="Install PHP Manager"/>
+
+Using the PHP install wizard install PHP
+  
   <img src="https://i.imgur.com/2fbT3OU.png" height="80%" width="80%" alt="Install URL Rewrite Module"/>
+
+With the URL Rewrite Module install URL Rewrite
+  
 </p>
 <br />
 
