@@ -75,7 +75,13 @@ Extract the provided PHP 7.3.8 package to <code>C:\PHP</code>. Verify Files Extr
 </p>
 <p>
   <img src="https://i.imgur.com/qNUjfVr.png" height="80%" width="80%" alt="PHP Setup Before Extract"/>
+
+Before Extracting FIles to PHP in C Drive
+  
   <img src="https://i.imgur.com/utMdGwq.png" height="80%" width="80%" alt="PHP Setup After Extract"/>
+
+After Extracting Files to PHP in C Drive
+  
 </p>
 <br />
 
@@ -96,15 +102,24 @@ Install MySQL 5.5.62 with standard configuration. Set a username & password then
 </p>
 <p>
   <img src="https://i.imgur.com/TBXJX8X.png" height="80%" width="80%" alt="MySQL Post Install Wizard"/>
+
+Install MySQL 5.5.62
+  
   <img src="https://i.imgur.com/mGOk1x0.png" height="80%" width="80%" alt="MySQL Account Setup "/>
+
+Make SQL Account
+  
   <img src="https://i.imgur.com/zyDxcKV.png" height="80%" width="80%" alt="MySQL server Configuration"/>
+
+Run Set up files for Server Configuration 
+  
 </p>
 <br />
 
 
 <p>
 <strong>Step 6 – Register PHP within IIS:</strong><br/>
-To make the Web Server aware of PHP on the computer. Register PHP from within IIS under Administrator Access. PHP Manager -> <code>C:\PHP\php-cgi.exe</code> After Registering the PHP restart the Server.
+To make the Web Server aware of PHP on the computer. Register PHP from within IIS under Administrator Access. PHP Manager → <code>C:\PHP\php-cgi.exe</code> After Registering the PHP restart the Server.
 </p>
 <p>
   <img src="https://i.imgur.com/o2vOtoK.png" height="80%" width="80%" alt="IIS Search (Run as Administrator"/>
@@ -170,7 +185,7 @@ Refresh the osTicket Installer Web Page to see three of the missing extensions h
 
 <img src="https://i.imgur.com/uG2NQVr.png" height="80%" width="80%" alt="ost-config Rename"/>
 
-Inside the C drive->inetpub->wwwroot->osTicket->Include search for ost-sampleconfig.php and rename it to ost-config.php
+Inside the C drive → inetpub → wwwroot → osTicket → Include search for ost-sampleconfig.php and rename it to ost-config.php
 
 <img src="https://i.imgur.com/zMGQiRo.png" height="80%" width="80%" alt="Disable Inheritance"/>
 
